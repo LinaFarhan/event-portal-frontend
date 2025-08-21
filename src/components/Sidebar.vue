@@ -1,0 +1,1 @@
+create tablee users (id integer primary autoincrement ,name varchar(255)not null unique, password varchar(255) not null);
