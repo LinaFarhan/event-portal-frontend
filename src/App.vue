@@ -1,5 +1,5 @@
  <template>
-  <!-- عرض صفحة تسجيل الدخول فقط بدون أي عناصر أخرى -->
+ 
   <div v-if="isLoginPage" class="min-h-screen bg-gray-100 dark:bg-gray-900">
     <router-view />
   </div>
